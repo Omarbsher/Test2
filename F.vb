@@ -1,4 +1,4 @@
-dim as intger
-dim i as intger 
+dim j as intger
+dim i intger 
 for i =0 to 10 
-print i
+ if i = 1 print i
